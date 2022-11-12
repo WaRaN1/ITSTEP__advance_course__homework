@@ -1,4 +1,29 @@
+
+# Topic: _Use of databases_
+
+### Task 1
+
+
+
 # Тема: _Використання баз даних_
+Create a Social Networking app that saves
+information about the user, his friends, user 
+publications. App features:
+
+- login by login and password;
+- add user;
+- delete user;
+- edit user information;
+- user search by last name;
+- viewing information about the user;
+- viewing all the user's friends;
+- View all user posts.
+#
+### _Getting Started_
+#### Creating a database and tables in it starts with running the code in the Start.py file
+#### The database is created through the "people" database
+#### The operation of the code is initialized through the run in the main.py file
+# 
 
 ### Завдання 1
 Створіть додаток «Соціальна мережа», який зберігає
