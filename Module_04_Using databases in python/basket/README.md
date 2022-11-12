@@ -3,9 +3,6 @@
 
 ### Task 1
 
-
-
-# Тема: _Використання баз даних_
 Create a Social Networking app that saves
 information about the user, his friends, user 
 publications. App features:
@@ -27,6 +24,7 @@ publications. App features:
 
 # Тема: _Використання баз даних_
 ### Завдання 1
+
 Створіть додаток «Соціальна мережа», який зберігає
 інформацію про користувача, його друзів, публікації користувача. Можливості додатку:
      
