@@ -25,6 +25,7 @@ publications. App features:
 #### The operation of the code is initialized through the run in the main.py file
 # 
 
+# Тема: _Використання баз даних_
 ### Завдання 1
 Створіть додаток «Соціальна мережа», який зберігає
 інформацію про користувача, його друзів, публікації користувача. Можливості додатку:
