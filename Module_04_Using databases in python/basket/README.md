@@ -21,7 +21,8 @@ publications. App features:
 #### The database is created through the "people" database
 #### The operation of the code is initialized through the run in the main.py file
 # 
-
+#
+#
 # Тема: _Використання баз даних_
 ### Завдання 1
 
