@@ -1,7 +1,5 @@
 
-# Topic: _Use of databases_
-
-### Task 1
+c
 
 Create a Social Networking app that saves
 information about the user, his friends, user 
